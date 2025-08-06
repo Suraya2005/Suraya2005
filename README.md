@@ -1,5 +1,4 @@
-
-##👩‍💻Who am I ?<br><br>A curious mind exploring AI/ML, backend development, and logical problem solving.<br>Currently learning Java and JavaScript to build smart and smooth web experiences.<br>Fast learner, always excited to turn ideas into real solutions.
+👩‍💻Who am I ?<br><br>A curious mind exploring AI/ML, backend development, and logical problem solving.<br>Currently learning Java and JavaScript to build smart and smooth web experiences.<br>Fast learner, always excited to turn ideas into real solutions.
 
 
 ## 🌐 Socials:
