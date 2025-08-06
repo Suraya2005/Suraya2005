@@ -23,6 +23,13 @@ Turning curiosity into impactful solutions — one line of code at a time 💡
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Suraya2005&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Suraya2005?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+</p>
+
+
+
 <h2>👩‍💻 <strong>Who am I?</strong></h2>
 <br>
 A curious mind exploring AI/ML, backend development, and logical problem solving.<br>
